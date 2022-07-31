@@ -12,3 +12,11 @@ Power Bi link: https://app.powerbi.com/links/_DJ7calmZu?ctid=81c1acf0-554a-4190-
 
 
 ![3](https://user-images.githubusercontent.com/58190465/182033127-62c7573f-b4af-48b5-8801-b934ad4ccc0d.png)
+
+
+#Microsoft SQL Server
+
+![4](https://user-images.githubusercontent.com/58190465/182033363-ee9392be-748e-450b-a3d3-d122d7087da1.png)
+
+
+![5](https://user-images.githubusercontent.com/58190465/182033369-69287812-0f38-4807-95da-85f181dbb484.png)
